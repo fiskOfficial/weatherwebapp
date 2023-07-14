@@ -1,0 +1,6 @@
+.day {
+    height: 10vh;
+    width: 8vw;
+    border: 2px solid black;
+    border-radius: 5px;
+}

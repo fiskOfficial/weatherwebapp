@@ -1,0 +1,38 @@
+.headerContainor {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image:
+     url("https://www.metoffice.gov.uk/binaries/content/gallery/metofficegovuk/hero-images/weather/cloud/altocumulus.jpg");
+    background-size: cover;
+    height: 40vh;
+    width: 100vw;
+    opacity: 0.9;
+ 
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+    /* margin-top: 20px; */
+    margin-bottom: 2vh;
+
+}
+ 
+
+h1 {
+    text-align: center;
+    font-size: 12vh;
+    font-family: 'Quicksand', sans-serif;
+    text-shadow: 12px 6px black;
+    opacity:1;
+    color: aliceblue;
+}
+
+h2 {
+    text-align: center;
+    font-size: 5vh;
+    opacity:1;
+    font-family: 'Indie Flower', cursive;
+    font-weight: bold;
+    color: #FF7518;
+}
